@@ -1,4 +1,10 @@
-a {
-    /* customize the color for your links */
-    color: "purple"
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
 }
+</style>
+</head>
+<body>
